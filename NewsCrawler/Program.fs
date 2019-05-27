@@ -1,0 +1,3 @@
+﻿[<EntryPoint>]
+printfn "Hello World "
+    
